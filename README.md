@@ -41,12 +41,9 @@ bash scripts/run_pipeline.sh
 
 ## Key Results
 
-**347 differentially expressed genes** (FDR < 0.05, |log₂FC| > 1)
+**XX differentially expressed genes** (FDR < 0.05, |log₂FC| > 1)
 
-- Upregulation of pluripotency factors (Pou5f1, Sox2, Nanog)
-- Chromatin remodeling response
-- Compensatory Dnmt3a/3b expression
-- Metabolic reprogramming
+- Upregulation of 
 
 ## Tools
 
@@ -114,8 +111,4 @@ rnaseq-tutorial/
 
 ## Citation
 
-Data from: Moyon et al. (2016) "Demyelination causes adult CNS progenitors to revert to an immature state and express immune cues that support their migration." *Journal of Neuroscience*
-
-## License
-
-MIT License - Free to use for educational and research purposes
+Data from: Moyon et al. (2016) "Functional Characterization of DNA Methylation in the Oligodendrocyte Lineage." *Cell Reports* doi: 10.1016/j.celrep.2016.03.060.  Epub 2016 Apr 14.
